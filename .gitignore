@@ -34,7 +34,3 @@ vs/.vs/
 *.user
 vs/OpenCVRunJikken/x64/
 vs/x64/
-
-# project
-src/.vscode/
-
