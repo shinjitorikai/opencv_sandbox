@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\src\basic\img_read.cpp" />
     <ClCompile Include="..\..\src\OpenCVRunJikken.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
