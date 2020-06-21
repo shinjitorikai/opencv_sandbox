@@ -34,3 +34,13 @@ vs/.vs/
 *.user
 vs/OpenCVRunJikken/x64/
 vs/x64/
+
+# add
+src/basic/img_getpixel
+src/basic/img_getpixel.dSYM
+src/basic/img_info
+src/basic/img_info.dSYM
+src/basic/img_read
+src/basic/img_read.dSYM
+src/transform/homography
+src/transform/homography.dSYM
